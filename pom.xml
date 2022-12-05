@@ -33,7 +33,7 @@
   <scm>
     <connection>scm:git:git@github.com:misddev1412/java-lib-user.git</connection>
     <developerConnection>scm:git:ssh://github.com:misddev1412/java-lib-user.git</developerConnection>
-    <url>https://github.com/misddev1412/java-lib-user/tree/main</url>
+    <url>https://github.com/misddev1412/java-lib-user/tree/master</url>
   </scm>
 
   <profiles>
